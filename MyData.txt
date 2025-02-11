@@ -1,0 +1,10 @@
+Product,Sales
+Laptop,70000
+Mouse,450
+Keyboard,1100
+Monitor,15000
+Headphones,900
+Phone,20000
+Tablet,18000
+Speaker,1200
+Smartwatch,1150
