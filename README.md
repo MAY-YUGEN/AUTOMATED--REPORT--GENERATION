@@ -30,4 +30,4 @@ AS DESCRIBE IN GIVEN TASK LIST I DELIVER FULL SCRIPT THAT READS DATA FROM A FILE
 
 ![Image](https://github.com/user-attachments/assets/07a7fd31-8aa7-4227-8090-596c35145ae6)
 
-[report.pdf](https://github.com/user-attachments/files/18748019/report.pdf)
+![Image](https://github.com/user-attachments/assets/a7b8dbd4-7e85-48bf-9473-576a41332710)
